@@ -3,5 +3,7 @@
 
 I've also included quiz test cases for some, which can be called for answering the quiz.
 
+I finished the course in a month. Here's the course <a href="https://www.coursera.org/account/accomplishments/certificate/LVQFHJACHXV4">Certificate</a>.
+
 <h3>NOTE:</h3>
 There is a custom package involved in this course. So it's simpler to run code in the <a href="http://www.dukelearntoprogram.com/downloads/bluej.php?course=2">custom Bluej IDE</a> made by Duke's University.
