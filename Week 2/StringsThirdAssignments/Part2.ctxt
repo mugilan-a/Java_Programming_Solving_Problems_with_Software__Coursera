@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Part2
+comment0.text=\r\n\ Using\ the\ StorageResource\ Class\r\n\ @author\:\ Mugilan\r\n\ (24/07/2020)\r\n
+comment1.params=dna
+comment1.target=double\ cgRatio(java.lang.String)
+comment2.params=
+comment2.target=void\ testcgRatio()
+comment3.params=dna
+comment3.target=int\ countCTG(java.lang.String)
+comment4.params=
+comment4.target=void\ testCountCTG()
+numComments=5
